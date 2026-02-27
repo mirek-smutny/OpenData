@@ -1,0 +1,2234 @@
+[
+  {
+    "KOD": "000000",
+    "TEXT": "Neza\u0159azeno"
+  },
+  {
+    "KOD": "010000",
+    "TEXT": "Rostlinn\u00E1 a \u017Eivo\u010Di\u0161n\u00E1 v\u00FDroba, myslivost a souvisej\u00EDc\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "011000",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED plodin jin\u00FDch ne\u017E trval\u00FDch"
+  },
+  {
+    "KOD": "011100",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED obilovin (krom\u011B r\u00FD\u017Ee), lu\u0161t\u011Bnin a olejnat\u00FDch semen"
+  },
+  {
+    "KOD": "011300",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED zeleniny a meloun\u016F, ko\u0159en\u016F a hl\u00EDz"
+  },
+  {
+    "KOD": "011900",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED ostatn\u00EDch plodin jin\u00FDch ne\u017E trval\u00FDch"
+  },
+  {
+    "KOD": "012400",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED j\u00E1drov\u00E9ho a peckov\u00E9ho ovoce"
+  },
+  {
+    "KOD": "012800",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED ko\u0159en\u00ED, aromatick\u00FDch, l\u00E9\u010Div\u00FDch a\u00A0farmaceutick\u00FDch rostlin"
+  },
+  {
+    "KOD": "012900",
+    "TEXT": "P\u011Bstov\u00E1n\u00ED ostatn\u00EDch trval\u00FDch plodin"
+  },
+  {
+    "KOD": "013000",
+    "TEXT": "Mno\u017Een\u00ED rostlin"
+  },
+  {
+    "KOD": "014000",
+    "TEXT": "\u017Divo\u010Di\u0161n\u00E1 v\u00FDroba"
+  },
+  {
+    "KOD": "014100",
+    "TEXT": "Chov ml\u00E9\u010Dn\u00E9ho skotu"
+  },
+  {
+    "KOD": "014200",
+    "TEXT": "Chov jin\u00E9ho skotu"
+  },
+  {
+    "KOD": "014300",
+    "TEXT": "Chov kon\u00ED a jin\u00FDch ko\u0148ovit\u00FDch"
+  },
+  {
+    "KOD": "014500",
+    "TEXT": "Chov ovc\u00ED a koz"
+  },
+  {
+    "KOD": "014600",
+    "TEXT": "Chov prasat"
+  },
+  {
+    "KOD": "014700",
+    "TEXT": "Chov dr\u016Fbe\u017Ee"
+  },
+  {
+    "KOD": "014900",
+    "TEXT": "Chov ostatn\u00EDch zv\u00ED\u0159at"
+  },
+  {
+    "KOD": "014930",
+    "TEXT": "Chov zv\u00ED\u0159at pro z\u00E1jmov\u00FD chov"
+  },
+  {
+    "KOD": "015000",
+    "TEXT": "Sm\u00ED\u0161en\u00E9 hospod\u00E1\u0159stv\u00ED"
+  },
+  {
+    "KOD": "016000",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti pro zem\u011Bd\u011Blstv\u00ED a poskliz\u0148ov\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "016100",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti pro rostlinnou v\u00FDrobu"
+  },
+  {
+    "KOD": "016200",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti pro \u017Eivo\u010Di\u0161nou v\u00FDrobu"
+  },
+  {
+    "KOD": "016300",
+    "TEXT": "Poskliz\u0148ov\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "016400",
+    "TEXT": "Zpracov\u00E1n\u00ED osiva pro \u00FA\u010Dely mno\u017Een\u00ED"
+  },
+  {
+    "KOD": "017000",
+    "TEXT": "Lov a odchyt divok\u00FDch zv\u00ED\u0159at a souvisej\u00EDc\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "021000",
+    "TEXT": "Lesn\u00ED hospod\u00E1\u0159stv\u00ED a jin\u00E9 \u010Dinnosti v oblasti lesnictv\u00ED"
+  },
+  {
+    "KOD": "022000",
+    "TEXT": "T\u011B\u017Eba d\u0159eva"
+  },
+  {
+    "KOD": "024000",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti pro lesnictv\u00ED"
+  },
+  {
+    "KOD": "032200",
+    "TEXT": "Sladkovodn\u00ED akvakultura"
+  },
+  {
+    "KOD": "051010",
+    "TEXT": "T\u011B\u017Eba \u010Dern\u00E9ho uhl\u00ED"
+  },
+  {
+    "KOD": "051020",
+    "TEXT": "\u00DAprava \u010Dern\u00E9ho uhl\u00ED"
+  },
+  {
+    "KOD": "052010",
+    "TEXT": "T\u011B\u017Eba hn\u011Bd\u00E9ho uhl\u00ED, krom\u011B lignitu"
+  },
+  {
+    "KOD": "061000",
+    "TEXT": "T\u011B\u017Eba ropy"
+  },
+  {
+    "KOD": "072110",
+    "TEXT": "T\u011B\u017Eba uranov\u00FDch a thoriov\u00FDch rud"
+  },
+  {
+    "KOD": "080000",
+    "TEXT": "Ostatn\u00ED t\u011B\u017Eba a dob\u00FDv\u00E1n\u00ED"
+  },
+  {
+    "KOD": "081100",
+    "TEXT": "Dob\u00FDv\u00E1n\u00ED kamene pro v\u00FDtvarn\u00E9 nebo stavebn\u00ED \u00FA\u010Dely, v\u00E1pence, s\u00E1drovce, k\u0159\u00EDdy a b\u0159idlice"
+  },
+  {
+    "KOD": "081200",
+    "TEXT": "Provoz p\u00EDskoven a \u0161t\u011Brkop\u00EDskoven; t\u011B\u017Eba j\u00EDl\u016F a kaolinu"
+  },
+  {
+    "KOD": "089100",
+    "TEXT": "T\u011B\u017Eba chemick\u00FDch miner\u00E1l\u016F a miner\u00E1l\u016F pro v\u00FDrobu hnojiv"
+  },
+  {
+    "KOD": "089200",
+    "TEXT": "T\u011B\u017Eba ra\u0161eliny"
+  },
+  {
+    "KOD": "089900",
+    "TEXT": "Ostatn\u00ED t\u011B\u017Eba a dob\u00FDv\u00E1n\u00ED j. n."
+  },
+  {
+    "KOD": "090000",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti p\u0159i t\u011B\u017Eb\u011B"
+  },
+  {
+    "KOD": "091000",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti p\u0159i t\u011B\u017Eb\u011B ropy a zemn\u00EDho plynu"
+  },
+  {
+    "KOD": "099000",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti p\u0159i ostatn\u00ED t\u011B\u017Eb\u011B a dob\u00FDv\u00E1n\u00ED"
+  },
+  {
+    "KOD": "100000",
+    "TEXT": "V\u00FDroba potravin\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "101100",
+    "TEXT": "Zpracov\u00E1n\u00ED a konzervov\u00E1n\u00ED masa, krom\u011B dr\u016Fbe\u017E\u00EDho"
+  },
+  {
+    "KOD": "101200",
+    "TEXT": "Zpracov\u00E1n\u00ED a konzervov\u00E1n\u00ED dr\u016Fbe\u017E\u00EDho masa"
+  },
+  {
+    "KOD": "101300",
+    "TEXT": "V\u00FDroba masn\u00FDch v\u00FDrobk\u016F a v\u00FDrobk\u016F z\u00A0dr\u016Fbe\u017E\u00EDho masa"
+  },
+  {
+    "KOD": "102000",
+    "TEXT": "Zpracov\u00E1n\u00ED a konzervov\u00E1n\u00ED ryb, kor\u00FD\u0161\u016F a m\u011Bkk\u00FD\u0161\u016F"
+  },
+  {
+    "KOD": "103100",
+    "TEXT": "Zpracov\u00E1n\u00ED a konzervov\u00E1n\u00ED brambor"
+  },
+  {
+    "KOD": "103200",
+    "TEXT": "V\u00FDroba ovocn\u00FDch a zeleninov\u00FDch \u0161\u0165\u00E1v"
+  },
+  {
+    "KOD": "103900",
+    "TEXT": "Ostatn\u00ED zpracov\u00E1n\u00ED a konzervov\u00E1n\u00ED ovoce a zeleniny"
+  },
+  {
+    "KOD": "104100",
+    "TEXT": "V\u00FDroba olej\u016F a tuk\u016F"
+  },
+  {
+    "KOD": "105100",
+    "TEXT": "Zpracov\u00E1n\u00ED ml\u00E9ka, v\u00FDroba ml\u00E9\u010Dn\u00FDch v\u00FDrobk\u016F a s\u00FDr\u016F"
+  },
+  {
+    "KOD": "105200",
+    "TEXT": "V\u00FDroba zmrzliny"
+  },
+  {
+    "KOD": "106100",
+    "TEXT": "V\u00FDroba ml\u00FDnsk\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "106200",
+    "TEXT": "V\u00FDroba \u0161krob\u00E1rensk\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "107100",
+    "TEXT": "V\u00FDroba peka\u0159sk\u00FDch a cukr\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F, krom\u011B trvanliv\u00FDch"
+  },
+  {
+    "KOD": "107200",
+    "TEXT": "V\u00FDroba suchar\u016F a su\u0161enek; v\u00FDroba trvanliv\u00FDch cukr\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "107300",
+    "TEXT": "V\u00FDroba makaron\u016F, nudl\u00ED, kuskusu a podobn\u00FDch mou\u010Dn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "108100",
+    "TEXT": "V\u00FDroba cukru"
+  },
+  {
+    "KOD": "108200",
+    "TEXT": "V\u00FDroba kakaa, \u010Dokol\u00E1dy a cukrovinek"
+  },
+  {
+    "KOD": "108300",
+    "TEXT": "Zpracov\u00E1n\u00ED \u010Daje a k\u00E1vy"
+  },
+  {
+    "KOD": "108400",
+    "TEXT": "V\u00FDroba ko\u0159en\u00ED a aromatick\u00FDch v\u00FDta\u017Ek\u016F"
+  },
+  {
+    "KOD": "108500",
+    "TEXT": "V\u00FDroba hotov\u00FDch pokrm\u016F"
+  },
+  {
+    "KOD": "108600",
+    "TEXT": "V\u00FDroba homogenizovan\u00FDch potravin\u00E1\u0159sk\u00FDch p\u0159\u00EDpravk\u016F a dietn\u00EDch potravin"
+  },
+  {
+    "KOD": "108900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch potravin\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F j. n."
+  },
+  {
+    "KOD": "109100",
+    "TEXT": "V\u00FDroba pr\u016Fmyslov\u00FDch krmiv pro hospod\u00E1\u0159sk\u00E1 zv\u00ED\u0159ata"
+  },
+  {
+    "KOD": "109200",
+    "TEXT": "V\u00FDroba pr\u016Fmyslov\u00FDch krmiv pro zv\u00ED\u0159ata v\u00A0z\u00E1jmov\u00E9m chovu"
+  },
+  {
+    "KOD": "110100",
+    "TEXT": "Destilace, rektifikace a m\u00EDch\u00E1n\u00ED lihovin"
+  },
+  {
+    "KOD": "110200",
+    "TEXT": "V\u00FDroba v\u00EDna z\u00A0vinn\u00FDch hrozn\u016F"
+  },
+  {
+    "KOD": "110500",
+    "TEXT": "V\u00FDroba piva"
+  },
+  {
+    "KOD": "110600",
+    "TEXT": "V\u00FDroba sladu"
+  },
+  {
+    "KOD": "110700",
+    "TEXT": "V\u00FDroba nealkoholick\u00FDch n\u00E1poj\u016F; st\u00E1\u010Den\u00ED miner\u00E1ln\u00EDch a\u00A0ostatn\u00EDch vod do\u00A0lahv\u00ED"
+  },
+  {
+    "KOD": "120000",
+    "TEXT": "V\u00FDroba tab\u00E1kov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "131000",
+    "TEXT": "\u00DAprava a sp\u0159\u00E1d\u00E1n\u00ED textiln\u00EDch vl\u00E1ken a p\u0159\u00EDze"
+  },
+  {
+    "KOD": "132000",
+    "TEXT": "Tkan\u00ED textili\u00ED"
+  },
+  {
+    "KOD": "133000",
+    "TEXT": "Kone\u010Dn\u00E1 \u00FAprava textili\u00ED"
+  },
+  {
+    "KOD": "139100",
+    "TEXT": "V\u00FDroba pleten\u00FDch a h\u00E1\u010Dkovan\u00FDch materi\u00E1l\u016F"
+  },
+  {
+    "KOD": "139200",
+    "TEXT": "V\u00FDroba konfek\u010Dn\u00EDch textiln\u00EDch v\u00FDrobk\u016F, krom\u011B od\u011Bv\u016F"
+  },
+  {
+    "KOD": "139300",
+    "TEXT": "V\u00FDroba koberc\u016F a kobercov\u00FDch p\u0159edlo\u017Eek"
+  },
+  {
+    "KOD": "139400",
+    "TEXT": "V\u00FDroba lan, provaz\u016F a s\u00ED\u0165ovan\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "139500",
+    "TEXT": "V\u00FDroba netkan\u00FDch textili\u00ED a v\u00FDrobk\u016F z\u00A0nich, krom\u011B od\u011Bv\u016F"
+  },
+  {
+    "KOD": "139600",
+    "TEXT": "V\u00FDroba ostatn\u00EDch technick\u00FDch a pr\u016Fmyslov\u00FDch textili\u00ED"
+  },
+  {
+    "KOD": "139900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch textili\u00ED j. n."
+  },
+  {
+    "KOD": "141200",
+    "TEXT": "V\u00FDroba pracovn\u00EDch od\u011Bv\u016F"
+  },
+  {
+    "KOD": "141300",
+    "TEXT": "V\u00FDroba ostatn\u00EDch svrchn\u00EDch od\u011Bv\u016F"
+  },
+  {
+    "KOD": "141400",
+    "TEXT": "V\u00FDroba osobn\u00EDho pr\u00E1dla"
+  },
+  {
+    "KOD": "141900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch od\u011Bv\u016F a od\u011Bvn\u00EDch dopl\u0148k\u016F"
+  },
+  {
+    "KOD": "143100",
+    "TEXT": "V\u00FDroba pleten\u00FDch a h\u00E1\u010Dkovan\u00FDch pun\u010Dochov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "151100",
+    "TEXT": "\u010Cin\u011Bn\u00ED a \u00FAprava usn\u00ED (vy\u010Din\u011Bn\u00FDch k\u016F\u017E\u00ED); zpracov\u00E1n\u00ED a\u00A0barven\u00ED ko\u017Ee\u0161in"
+  },
+  {
+    "KOD": "151200",
+    "TEXT": "V\u00FDroba bra\u0161n\u00E1\u0159sk\u00FDch, sedl\u00E1\u0159sk\u00FDch a podobn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "152000",
+    "TEXT": "V\u00FDroba obuvi"
+  },
+  {
+    "KOD": "152010",
+    "TEXT": "V\u00FDroba obuvi s\u00A0us\u0148ov\u00FDm svr\u0161kem"
+  },
+  {
+    "KOD": "152090",
+    "TEXT": "V\u00FDroba obuvi z\u00A0ostatn\u00EDch materi\u00E1l\u016F"
+  },
+  {
+    "KOD": "160000",
+    "TEXT": "Zpracov\u00E1n\u00ED d\u0159eva, v\u00FDroba d\u0159ev\u011Bn\u00FDch, korkov\u00FDch, prout\u011Bn\u00FDch a slam\u011Bn\u00FDch v\u00FDrobk\u016F, krom\u011B n\u00E1bytku"
+  },
+  {
+    "KOD": "161000",
+    "TEXT": "V\u00FDroba pila\u0159sk\u00E1 a impregnace d\u0159eva"
+  },
+  {
+    "KOD": "162000",
+    "TEXT": "V\u00FDroba d\u0159ev\u011Bn\u00FDch, korkov\u00FDch, prout\u011Bn\u00FDch a\u00A0slam\u011Bn\u00FDch v\u00FDrobk\u016F, krom\u011B n\u00E1bytku"
+  },
+  {
+    "KOD": "162100",
+    "TEXT": "V\u00FDroba d\u00FDh a desek na b\u00E1zi d\u0159eva"
+  },
+  {
+    "KOD": "162300",
+    "TEXT": "V\u00FDroba ostatn\u00EDch v\u00FDrobk\u016F stavebn\u00EDho truhl\u00E1\u0159stv\u00ED a\u00A0tesa\u0159stv\u00ED"
+  },
+  {
+    "KOD": "162400",
+    "TEXT": "V\u00FDroba d\u0159ev\u011Bn\u00FDch obal\u016F"
+  },
+  {
+    "KOD": "162900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch d\u0159ev\u011Bn\u00FDch, korkov\u00FDch, prout\u011Bn\u00FDch a slam\u011Bn\u00FDch v\u00FDrobk\u016F, krom\u011B n\u00E1bytku"
+  },
+  {
+    "KOD": "171000",
+    "TEXT": "V\u00FDroba buni\u010Diny, pap\u00EDru a lepenky"
+  },
+  {
+    "KOD": "171110",
+    "TEXT": "V\u00FDroba chemick\u00FDch buni\u010Din"
+  },
+  {
+    "KOD": "171200",
+    "TEXT": "V\u00FDroba pap\u00EDru a lepenky"
+  },
+  {
+    "KOD": "172000",
+    "TEXT": "V\u00FDroba v\u00FDrobk\u016F z pap\u00EDru a lepenky"
+  },
+  {
+    "KOD": "172100",
+    "TEXT": "V\u00FDroba vlnit\u00E9ho pap\u00EDru a lepenky, pap\u00EDrov\u00FDch a\u00A0lepenkov\u00FDch obal\u016F"
+  },
+  {
+    "KOD": "172200",
+    "TEXT": "V\u00FDroba dom\u00E1c\u00EDch pot\u0159eb, hygienick\u00FDch a toaletn\u00EDch v\u00FDrobk\u016F z pap\u00EDru"
+  },
+  {
+    "KOD": "172300",
+    "TEXT": "V\u00FDroba kancel\u00E1\u0159sk\u00FDch pot\u0159eb z pap\u00EDru"
+  },
+  {
+    "KOD": "172900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch v\u00FDrobk\u016F z pap\u00EDru a lepenky"
+  },
+  {
+    "KOD": "181200",
+    "TEXT": "Tisk ostatn\u00ED, krom\u011B novin"
+  },
+  {
+    "KOD": "181300",
+    "TEXT": "P\u0159\u00EDprava tisku a digit\u00E1ln\u00EDch dat"
+  },
+  {
+    "KOD": "182000",
+    "TEXT": "Rozmno\u017Eov\u00E1n\u00ED nahran\u00FDch nosi\u010D\u016F"
+  },
+  {
+    "KOD": "191000",
+    "TEXT": "V\u00FDroba koks\u00E1rensk\u00FDch produkt\u016F"
+  },
+  {
+    "KOD": "192000",
+    "TEXT": "V\u00FDroba rafinovan\u00FDch ropn\u00FDch produkt\u016F"
+  },
+  {
+    "KOD": "200000",
+    "TEXT": "V\u00FDroba chemick\u00FDch l\u00E1tek a chemick\u00FDch p\u0159\u00EDpravk\u016F"
+  },
+  {
+    "KOD": "201100",
+    "TEXT": "V\u00FDroba technick\u00FDch plyn\u016F"
+  },
+  {
+    "KOD": "201200",
+    "TEXT": "V\u00FDroba barviv a pigment\u016F"
+  },
+  {
+    "KOD": "201300",
+    "TEXT": "V\u00FDroba jin\u00FDch z\u00E1kladn\u00EDch anorganick\u00FDch chemick\u00FDch l\u00E1tek"
+  },
+  {
+    "KOD": "201400",
+    "TEXT": "V\u00FDroba jin\u00FDch z\u00E1kladn\u00EDch organick\u00FDch chemick\u00FDch l\u00E1tek"
+  },
+  {
+    "KOD": "201410",
+    "TEXT": "V\u00FDroba bioetanolu (biolihu) pro pohon motor\u016F a pro v\u00FDrobu sm\u011Bs\u00ED a komponent paliv pro pohon motor\u016F"
+  },
+  {
+    "KOD": "201490",
+    "TEXT": "V\u00FDroba ostatn\u00EDch z\u00E1kladn\u00EDch organick\u00FDch chemick\u00FDch l\u00E1tek"
+  },
+  {
+    "KOD": "201500",
+    "TEXT": "V\u00FDroba hnojiv a dus\u00EDkat\u00FDch slou\u010Denin"
+  },
+  {
+    "KOD": "201600",
+    "TEXT": "V\u00FDroba plast\u016F v prim\u00E1rn\u00EDch form\u00E1ch"
+  },
+  {
+    "KOD": "201700",
+    "TEXT": "V\u00FDroba syntetick\u00E9ho kau\u010Duku v prim\u00E1rn\u00EDch form\u00E1ch"
+  },
+  {
+    "KOD": "202000",
+    "TEXT": "V\u00FDroba pesticid\u016F a jin\u00FDch agrochemick\u00FDch p\u0159\u00EDpravk\u016F"
+  },
+  {
+    "KOD": "203000",
+    "TEXT": "V\u00FDroba n\u00E1t\u011Brov\u00FDch barev, lak\u016F a jin\u00FDch n\u00E1t\u011Brov\u00FDch materi\u00E1l\u016F, tiska\u0159sk\u00FDch barev a tmel\u016F"
+  },
+  {
+    "KOD": "204100",
+    "TEXT": "V\u00FDroba m\u00FDdel a detergent\u016F, \u010Distic\u00EDch a le\u0161tic\u00EDch prost\u0159edk\u016F"
+  },
+  {
+    "KOD": "204200",
+    "TEXT": "V\u00FDroba parf\u00E9m\u016F a toaletn\u00EDch p\u0159\u00EDpravk\u016F"
+  },
+  {
+    "KOD": "205100",
+    "TEXT": "V\u00FDroba v\u00FDbu\u0161nin"
+  },
+  {
+    "KOD": "205200",
+    "TEXT": "V\u00FDroba klih\u016F"
+  },
+  {
+    "KOD": "205300",
+    "TEXT": "V\u00FDroba vonn\u00FDch silic"
+  },
+  {
+    "KOD": "205900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch chemick\u00FDch v\u00FDrobk\u016F j. n."
+  },
+  {
+    "KOD": "205910",
+    "TEXT": "V\u00FDroba metylester\u016F a etylester\u016F mastn\u00FDch kyselin pro pohon motor\u016F a pro v\u00FDrobu sm\u011Bs\u00ED paliv pro pohon motor\u016F"
+  },
+  {
+    "KOD": "205990",
+    "TEXT": "V\u00FDroba jin\u00FDch chemick\u00FDch v\u00FDrobk\u016F j. n."
+  },
+  {
+    "KOD": "206000",
+    "TEXT": "V\u00FDroba chemick\u00FDch vl\u00E1ken"
+  },
+  {
+    "KOD": "211000",
+    "TEXT": "V\u00FDroba z\u00E1kladn\u00EDch farmaceutick\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "212000",
+    "TEXT": "V\u00FDroba farmaceutick\u00FDch p\u0159\u00EDpravk\u016F"
+  },
+  {
+    "KOD": "220000",
+    "TEXT": "V\u00FDroba pry\u017Eov\u00FDch a plastov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "221100",
+    "TEXT": "V\u00FDroba pry\u017Eov\u00FDch pl\u00E1\u0161\u0165\u016F a du\u0161\u00ED; protektorov\u00E1n\u00ED pneumatik"
+  },
+  {
+    "KOD": "221900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch pry\u017Eov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "222000",
+    "TEXT": "V\u00FDroba plastov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "222100",
+    "TEXT": "V\u00FDroba plastov\u00FDch desek, f\u00F3li\u00ED, hadic, trubek a profil\u016F"
+  },
+  {
+    "KOD": "222200",
+    "TEXT": "V\u00FDroba plastov\u00FDch obal\u016F"
+  },
+  {
+    "KOD": "222300",
+    "TEXT": "V\u00FDroba plastov\u00FDch v\u00FDrobk\u016F pro stavebnictv\u00ED"
+  },
+  {
+    "KOD": "222900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch plastov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "231000",
+    "TEXT": "V\u00FDroba skla a sklen\u011Bn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "231100",
+    "TEXT": "V\u00FDroba ploch\u00E9ho skla"
+  },
+  {
+    "KOD": "231200",
+    "TEXT": "Tvarov\u00E1n\u00ED a zpracov\u00E1n\u00ED ploch\u00E9ho skla"
+  },
+  {
+    "KOD": "231300",
+    "TEXT": "V\u00FDroba dut\u00E9ho skla"
+  },
+  {
+    "KOD": "231400",
+    "TEXT": "V\u00FDroba sklen\u011Bn\u00FDch vl\u00E1ken"
+  },
+  {
+    "KOD": "231900",
+    "TEXT": "V\u00FDroba a zpracov\u00E1n\u00ED ostatn\u00EDho skla v\u010D. technick\u00E9ho"
+  },
+  {
+    "KOD": "232000",
+    "TEXT": "V\u00FDroba \u017E\u00E1ruvzdorn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "233100",
+    "TEXT": "V\u00FDroba keramick\u00FDch obkl\u00E1da\u010Dek a dla\u017Edic"
+  },
+  {
+    "KOD": "233200",
+    "TEXT": "V\u00FDroba p\u00E1len\u00FDch zdic\u00EDch materi\u00E1l\u016F, ta\u0161ek, dla\u017Edic a\u00A0podobn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "234100",
+    "TEXT": "V\u00FDroba keramick\u00FDch a porcel\u00E1nov\u00FDch v\u00FDrobk\u016F p\u0159ev\u00E1\u017En\u011B pro dom\u00E1cnost a\u00A0ozdobn\u00FDch p\u0159edm\u011Bt\u016F"
+  },
+  {
+    "KOD": "234200",
+    "TEXT": "V\u00FDroba keramick\u00FDch sanit\u00E1rn\u00EDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "234300",
+    "TEXT": "V\u00FDroba keramick\u00FDch izol\u00E1tor\u016F a izola\u010Dn\u00EDho p\u0159\u00EDslu\u0161enstv\u00ED"
+  },
+  {
+    "KOD": "234400",
+    "TEXT": "V\u00FDroba ostatn\u00EDch technick\u00FDch keramick\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "234900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch keramick\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "235100",
+    "TEXT": "V\u00FDroba cementu"
+  },
+  {
+    "KOD": "235200",
+    "TEXT": "V\u00FDroba v\u00E1pna a s\u00E1dry"
+  },
+  {
+    "KOD": "236000",
+    "TEXT": "V\u00FDroba betonov\u00FDch, cementov\u00FDch a s\u00E1drov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "236100",
+    "TEXT": "V\u00FDroba betonov\u00FDch v\u00FDrobk\u016F pro stavebn\u00ED \u00FA\u010Dely"
+  },
+  {
+    "KOD": "236200",
+    "TEXT": "V\u00FDroba s\u00E1drov\u00FDch v\u00FDrobk\u016F pro stavebn\u00ED \u00FA\u010Dely"
+  },
+  {
+    "KOD": "236300",
+    "TEXT": "V\u00FDroba betonu p\u0159ipraven\u00E9ho k lit\u00ED"
+  },
+  {
+    "KOD": "236400",
+    "TEXT": "V\u00FDroba malt"
+  },
+  {
+    "KOD": "236500",
+    "TEXT": "V\u00FDroba vl\u00E1knit\u00FDch cement\u016F"
+  },
+  {
+    "KOD": "236900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch betonov\u00FDch, cementov\u00FDch a\u00A0s\u00E1drov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "237000",
+    "TEXT": "\u0158ez\u00E1n\u00ED, tvarov\u00E1n\u00ED a kone\u010Dn\u00E1 \u00FAprava kamen\u016F"
+  },
+  {
+    "KOD": "239100",
+    "TEXT": "V\u00FDroba brusiv"
+  },
+  {
+    "KOD": "239900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch nekovov\u00FDch miner\u00E1ln\u00EDch v\u00FDrobk\u016F j.\u00A0n."
+  },
+  {
+    "KOD": "240000",
+    "TEXT": "V\u00FDroba z\u00E1kladn\u00EDch kov\u016F, hutn\u00ED zpracov\u00E1n\u00ED kov\u016F; sl\u00E9v\u00E1renstv\u00ED"
+  },
+  {
+    "KOD": "241000",
+    "TEXT": "V\u00FDroba surov\u00E9ho \u017Eeleza, oceli a feroslitin, ploch\u00FDch v\u00FDrobk\u016F (krom\u011B p\u00E1sky za studena), tv\u00E1\u0159en\u00ED v\u00FDrobk\u016F za tepla"
+  },
+  {
+    "KOD": "241010",
+    "TEXT": "V\u00FDroba surov\u00E9ho \u017Eeleza, oceli a feroslitin"
+  },
+  {
+    "KOD": "241020",
+    "TEXT": "V\u00FDroba ploch\u00FDch v\u00FDrobk\u016F (krom\u011B p\u00E1sky za studena)"
+  },
+  {
+    "KOD": "241030",
+    "TEXT": "Tv\u00E1\u0159en\u00ED v\u00FDrobk\u016F za tepla"
+  },
+  {
+    "KOD": "242000",
+    "TEXT": "V\u00FDroba ocelov\u00FDch trub, trubek, dut\u00FDch profil\u016F a\u00A0souvisej\u00EDc\u00EDch potrubn\u00EDch tvarovek"
+  },
+  {
+    "KOD": "243100",
+    "TEXT": "Ta\u017Een\u00ED ty\u010D\u00ED za studena"
+  },
+  {
+    "KOD": "243200",
+    "TEXT": "V\u00E1lcov\u00E1n\u00ED ocelov\u00FDch \u00FAzk\u00FDch p\u00E1s\u016F za studena"
+  },
+  {
+    "KOD": "243300",
+    "TEXT": "Tv\u00E1\u0159en\u00ED ocelov\u00FDch profil\u016F za studena"
+  },
+  {
+    "KOD": "243400",
+    "TEXT": "Ta\u017Een\u00ED ocelov\u00E9ho dr\u00E1tu za studena"
+  },
+  {
+    "KOD": "244100",
+    "TEXT": "V\u00FDroba a hutn\u00ED zpracov\u00E1n\u00ED drah\u00FDch kov\u016F"
+  },
+  {
+    "KOD": "244200",
+    "TEXT": "V\u00FDroba a hutn\u00ED zpracov\u00E1n\u00ED hlin\u00EDku"
+  },
+  {
+    "KOD": "244300",
+    "TEXT": "V\u00FDroba a hutn\u00ED zpracov\u00E1n\u00ED olova, zinku a c\u00EDnu"
+  },
+  {
+    "KOD": "244400",
+    "TEXT": "V\u00FDroba a hutn\u00ED zpracov\u00E1n\u00ED m\u011Bdi"
+  },
+  {
+    "KOD": "244500",
+    "TEXT": "V\u00FDroba a hutn\u00ED zpracov\u00E1n\u00ED ostatn\u00EDch ne\u017Eelezn\u00FDch kov\u016F"
+  },
+  {
+    "KOD": "245100",
+    "TEXT": "V\u00FDroba odlitk\u016F z litiny"
+  },
+  {
+    "KOD": "245110",
+    "TEXT": "V\u00FDroba odlitk\u016F z litiny s lup\u00EDnkov\u00FDm grafitem"
+  },
+  {
+    "KOD": "245120",
+    "TEXT": "V\u00FDroba odlitk\u016F z litiny s kuli\u010Dkov\u00FDm grafitem"
+  },
+  {
+    "KOD": "245200",
+    "TEXT": "V\u00FDroba odlitk\u016F z oceli"
+  },
+  {
+    "KOD": "245210",
+    "TEXT": "V\u00FDroba odlitk\u016F z uhl\u00EDkat\u00FDch ocel\u00ED"
+  },
+  {
+    "KOD": "245220",
+    "TEXT": "V\u00FDroba odlitk\u016F z legovan\u00FDch ocel\u00ED"
+  },
+  {
+    "KOD": "245300",
+    "TEXT": "V\u00FDroba odlitk\u016F z lehk\u00FDch ne\u017Eelezn\u00FDch kov\u016F"
+  },
+  {
+    "KOD": "245400",
+    "TEXT": "V\u00FDroba odlitk\u016F z ostatn\u00EDch ne\u017Eelezn\u00FDch kov\u016F"
+  },
+  {
+    "KOD": "250000",
+    "TEXT": "V\u00FDroba kovov\u00FDch konstrukc\u00ED a kovod\u011Bln\u00FDch v\u00FDrobk\u016F, krom\u011B stroj\u016F a\u00A0za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "251000",
+    "TEXT": "V\u00FDroba konstruk\u010Dn\u00EDch kovov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "251100",
+    "TEXT": "V\u00FDroba kovov\u00FDch konstrukc\u00ED a jejich d\u00EDl\u016F"
+  },
+  {
+    "KOD": "251200",
+    "TEXT": "V\u00FDroba kovov\u00FDch dve\u0159\u00ED a oken"
+  },
+  {
+    "KOD": "252100",
+    "TEXT": "V\u00FDroba radi\u00E1tor\u016F a kotl\u016F k \u00FAst\u0159edn\u00EDmu topen\u00ED"
+  },
+  {
+    "KOD": "252900",
+    "TEXT": "V\u00FDroba kovov\u00FDch n\u00E1dr\u017E\u00ED a z\u00E1sobn\u00EDk\u016F"
+  },
+  {
+    "KOD": "253000",
+    "TEXT": "V\u00FDroba parn\u00EDch kotl\u016F, krom\u011B kotl\u016F pro \u00FAst\u0159edn\u00ED topen\u00ED"
+  },
+  {
+    "KOD": "254000",
+    "TEXT": "V\u00FDroba zbran\u00ED a st\u0159eliva"
+  },
+  {
+    "KOD": "255000",
+    "TEXT": "Kov\u00E1n\u00ED, lisov\u00E1n\u00ED, ra\u017Een\u00ED, v\u00E1lcov\u00E1n\u00ED a protla\u010Dov\u00E1n\u00ED kov\u016F; pr\u00E1\u0161kov\u00E1 metalurgie"
+  },
+  {
+    "KOD": "256000",
+    "TEXT": "Povrchov\u00E1 \u00FAprava a zu\u0161lech\u0165ov\u00E1n\u00ED kov\u016F; obr\u00E1b\u011Bn\u00ED"
+  },
+  {
+    "KOD": "256100",
+    "TEXT": "Povrchov\u00E1 \u00FAprava a zu\u0161lech\u0165ov\u00E1n\u00ED kov\u016F"
+  },
+  {
+    "KOD": "256200",
+    "TEXT": "Obr\u00E1b\u011Bn\u00ED"
+  },
+  {
+    "KOD": "257000",
+    "TEXT": "V\u00FDroba no\u017E\u00ED\u0159sk\u00FDch v\u00FDrobk\u016F, n\u00E1stroj\u016F a\u00A0\u017Eelez\u00E1\u0159sk\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "257100",
+    "TEXT": "V\u00FDroba no\u017E\u00ED\u0159sk\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "257200",
+    "TEXT": "V\u00FDroba z\u00E1mk\u016F a kov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "257300",
+    "TEXT": "V\u00FDroba n\u00E1stroj\u016F a n\u00E1\u0159ad\u00ED"
+  },
+  {
+    "KOD": "259100",
+    "TEXT": "V\u00FDroba ocelov\u00FDch sud\u016F a podobn\u00FDch n\u00E1dob"
+  },
+  {
+    "KOD": "259200",
+    "TEXT": "V\u00FDroba drobn\u00FDch kovov\u00FDch obal\u016F"
+  },
+  {
+    "KOD": "259300",
+    "TEXT": "V\u00FDroba dr\u00E1t\u011Bn\u00FDch v\u00FDrobk\u016F, \u0159et\u011Bz\u016F a pru\u017Ein"
+  },
+  {
+    "KOD": "259400",
+    "TEXT": "V\u00FDroba spojovac\u00EDch materi\u00E1l\u016F a spojovac\u00EDch v\u00FDrobk\u016F se\u00A0z\u00E1vity"
+  },
+  {
+    "KOD": "259900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch kovod\u011Bln\u00FDch v\u00FDrobk\u016F j. n."
+  },
+  {
+    "KOD": "260000",
+    "TEXT": "V\u00FDroba po\u010D\u00EDta\u010D\u016F, elektronick\u00FDch a optick\u00FDch p\u0159\u00EDstroj\u016F a za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "261000",
+    "TEXT": "V\u00FDroba elektronick\u00FDch sou\u010D\u00E1stek a desek"
+  },
+  {
+    "KOD": "261100",
+    "TEXT": "V\u00FDroba elektronick\u00FDch sou\u010D\u00E1stek"
+  },
+  {
+    "KOD": "261200",
+    "TEXT": "V\u00FDroba osazen\u00FDch elektronick\u00FDch desek"
+  },
+  {
+    "KOD": "262000",
+    "TEXT": "V\u00FDroba po\u010D\u00EDta\u010D\u016F a perifern\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "263000",
+    "TEXT": "V\u00FDroba komunika\u010Dn\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "264000",
+    "TEXT": "V\u00FDroba spot\u0159ebn\u00ED elektroniky"
+  },
+  {
+    "KOD": "265100",
+    "TEXT": "V\u00FDroba m\u011B\u0159ic\u00EDch, zku\u0161ebn\u00EDch a naviga\u010Dn\u00EDch p\u0159\u00EDstroj\u016F"
+  },
+  {
+    "KOD": "265200",
+    "TEXT": "V\u00FDroba \u010Dasom\u011Brn\u00FDch p\u0159\u00EDstroj\u016F"
+  },
+  {
+    "KOD": "266000",
+    "TEXT": "V\u00FDroba oza\u0159ovac\u00EDch, elektrol\u00E9\u010Debn\u00FDch a\u00A0elektroterapeutick\u00FDch p\u0159\u00EDstroj\u016F"
+  },
+  {
+    "KOD": "267000",
+    "TEXT": "V\u00FDroba optick\u00FDch a fotografick\u00FDch p\u0159\u00EDstroj\u016F a za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "271100",
+    "TEXT": "V\u00FDroba elektrick\u00FDch motor\u016F, gener\u00E1tor\u016F a\u00A0transform\u00E1tor\u016F"
+  },
+  {
+    "KOD": "271200",
+    "TEXT": "V\u00FDroba elektrick\u00FDch rozvodn\u00FDch a kontroln\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "272000",
+    "TEXT": "V\u00FDroba bateri\u00ED a akumul\u00E1tor\u016F"
+  },
+  {
+    "KOD": "273100",
+    "TEXT": "V\u00FDroba optick\u00FDch kabel\u016F"
+  },
+  {
+    "KOD": "273200",
+    "TEXT": "V\u00FDroba elektrick\u00FDch vodi\u010D\u016F a kabel\u016F j. n."
+  },
+  {
+    "KOD": "273300",
+    "TEXT": "V\u00FDroba elektroinstala\u010Dn\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "274000",
+    "TEXT": "V\u00FDroba elektrick\u00FDch osv\u011Btlovac\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "275100",
+    "TEXT": "V\u00FDroba elektrick\u00FDch spot\u0159ebi\u010D\u016F p\u0159ev\u00E1\u017En\u011B pro\u00A0dom\u00E1cnost"
+  },
+  {
+    "KOD": "275200",
+    "TEXT": "V\u00FDroba neelektrick\u00FDch spot\u0159ebi\u010D\u016F p\u0159ev\u00E1\u017En\u011B pro\u00A0dom\u00E1cnost"
+  },
+  {
+    "KOD": "279000",
+    "TEXT": "V\u00FDroba ostatn\u00EDch elektrick\u00FDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "280000",
+    "TEXT": "V\u00FDroba stroj\u016F a za\u0159\u00EDzen\u00ED j. n."
+  },
+  {
+    "KOD": "281100",
+    "TEXT": "V\u00FDroba motor\u016F a turb\u00EDn, krom\u011B motor\u016F pro letadla, automobily a\u00A0motocykly"
+  },
+  {
+    "KOD": "281200",
+    "TEXT": "V\u00FDroba hydraulick\u00FDch a pneumatick\u00FDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "281300",
+    "TEXT": "V\u00FDroba ostatn\u00EDch \u010Derpadel a kompresor\u016F"
+  },
+  {
+    "KOD": "281400",
+    "TEXT": "V\u00FDroba ostatn\u00EDch potrubn\u00EDch armatur"
+  },
+  {
+    "KOD": "281500",
+    "TEXT": "V\u00FDroba lo\u017Eisek, ozuben\u00FDch kol, p\u0159evod\u016F a hnac\u00EDch prvk\u016F"
+  },
+  {
+    "KOD": "282000",
+    "TEXT": "V\u00FDroba ostatn\u00EDch stroj\u016F a za\u0159\u00EDzen\u00ED pro v\u0161eobecn\u00E9 \u00FA\u010Dely"
+  },
+  {
+    "KOD": "282100",
+    "TEXT": "V\u00FDroba pec\u00ED a ho\u0159\u00E1k\u016F pro topeni\u0161t\u011B"
+  },
+  {
+    "KOD": "282200",
+    "TEXT": "V\u00FDroba zdvihac\u00EDch a manipula\u010Dn\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "282400",
+    "TEXT": "V\u00FDroba ru\u010Dn\u00EDch mechanizovan\u00FDch n\u00E1stroj\u016F"
+  },
+  {
+    "KOD": "282500",
+    "TEXT": "V\u00FDroba pr\u016Fmyslov\u00FDch chladic\u00EDch a klimatiza\u010Dn\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "282900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch stroj\u016F a za\u0159\u00EDzen\u00ED pro v\u0161eobecn\u00E9 \u00FA\u010Dely j. n."
+  },
+  {
+    "KOD": "283000",
+    "TEXT": "V\u00FDroba zem\u011Bd\u011Blsk\u00FDch a lesnick\u00FDch stroj\u016F"
+  },
+  {
+    "KOD": "284100",
+    "TEXT": "V\u00FDroba kovoobr\u00E1b\u011Bc\u00EDch stroj\u016F"
+  },
+  {
+    "KOD": "284900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch obr\u00E1b\u011Bc\u00EDch stroj\u016F"
+  },
+  {
+    "KOD": "289100",
+    "TEXT": "V\u00FDroba stroj\u016F pro metalurgii"
+  },
+  {
+    "KOD": "289200",
+    "TEXT": "V\u00FDroba stroj\u016F pro t\u011B\u017Ebu, dob\u00FDv\u00E1n\u00ED a stavebnictv\u00ED"
+  },
+  {
+    "KOD": "289300",
+    "TEXT": "V\u00FDroba stroj\u016F na v\u00FDrobu potravin, n\u00E1poj\u016F a\u00A0zpracov\u00E1n\u00ED tab\u00E1ku"
+  },
+  {
+    "KOD": "289400",
+    "TEXT": "V\u00FDroba stroj\u016F na v\u00FDrobu textilu, od\u011Bvn\u00EDch v\u00FDrobk\u016F a\u00A0v\u00FDrobk\u016F z usn\u00ED"
+  },
+  {
+    "KOD": "289500",
+    "TEXT": "V\u00FDroba stroj\u016F a p\u0159\u00EDstroj\u016F na v\u00FDrobu pap\u00EDru a lepenky"
+  },
+  {
+    "KOD": "289600",
+    "TEXT": "V\u00FDroba stroj\u016F na v\u00FDrobu plast\u016F a pry\u017Ee"
+  },
+  {
+    "KOD": "289900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch stroj\u016F pro speci\u00E1ln\u00ED \u00FA\u010Dely j. n."
+  },
+  {
+    "KOD": "291000",
+    "TEXT": "V\u00FDroba motorov\u00FDch vozidel a jejich motor\u016F"
+  },
+  {
+    "KOD": "292000",
+    "TEXT": "V\u00FDroba karoseri\u00ED motorov\u00FDch vozidel; v\u00FDroba p\u0159\u00EDv\u011Bs\u016F a n\u00E1v\u011Bs\u016F"
+  },
+  {
+    "KOD": "293100",
+    "TEXT": "V\u00FDroba elektrick\u00E9ho a elektronick\u00E9ho za\u0159\u00EDzen\u00ED pro\u00A0motorov\u00E1 vozidla"
+  },
+  {
+    "KOD": "293200",
+    "TEXT": "V\u00FDroba ostatn\u00EDch d\u00EDl\u016F a p\u0159\u00EDslu\u0161enstv\u00ED pro motorov\u00E1 vozidla"
+  },
+  {
+    "KOD": "301200",
+    "TEXT": "Stavba rekrea\u010Dn\u00EDch a sportovn\u00EDch \u010Dlun\u016F"
+  },
+  {
+    "KOD": "302000",
+    "TEXT": "V\u00FDroba \u017Eelezni\u010Dn\u00EDch lokomotiv a vozov\u00E9ho parku"
+  },
+  {
+    "KOD": "303000",
+    "TEXT": "V\u00FDroba letadel a jejich motor\u016F, kosmick\u00FDch lod\u00ED a souvisej\u00EDc\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "304000",
+    "TEXT": "V\u00FDroba vojensk\u00FDch bojov\u00FDch vozidel"
+  },
+  {
+    "KOD": "309100",
+    "TEXT": "V\u00FDroba motocykl\u016F"
+  },
+  {
+    "KOD": "309200",
+    "TEXT": "V\u00FDroba j\u00EDzdn\u00EDch kol a voz\u00EDk\u016F pro invalidy"
+  },
+  {
+    "KOD": "309900",
+    "TEXT": "V\u00FDroba ostatn\u00EDch dopravn\u00EDch prost\u0159edk\u016F a za\u0159\u00EDzen\u00ED j. n."
+  },
+  {
+    "KOD": "310100",
+    "TEXT": "V\u00FDroba kancel\u00E1\u0159sk\u00E9ho n\u00E1bytku a za\u0159\u00EDzen\u00ED obchod\u016F"
+  },
+  {
+    "KOD": "310200",
+    "TEXT": "V\u00FDroba kuchy\u0148sk\u00E9ho n\u00E1bytku"
+  },
+  {
+    "KOD": "310300",
+    "TEXT": "V\u00FDroba matrac\u00ED"
+  },
+  {
+    "KOD": "310900",
+    "TEXT": "V\u00FDroba ostatn\u00EDho n\u00E1bytku"
+  },
+  {
+    "KOD": "321100",
+    "TEXT": "Ra\u017Een\u00ED minc\u00ED"
+  },
+  {
+    "KOD": "321200",
+    "TEXT": "V\u00FDroba klenot\u016F a p\u0159\u00EDbuzn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "321300",
+    "TEXT": "V\u00FDroba bi\u017Euterie a p\u0159\u00EDbuzn\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "322000",
+    "TEXT": "V\u00FDroba hudebn\u00EDch n\u00E1stroj\u016F"
+  },
+  {
+    "KOD": "323000",
+    "TEXT": "V\u00FDroba sportovn\u00EDch pot\u0159eb"
+  },
+  {
+    "KOD": "324000",
+    "TEXT": "V\u00FDroba her a hra\u010Dek"
+  },
+  {
+    "KOD": "325000",
+    "TEXT": "V\u00FDroba l\u00E9ka\u0159sk\u00FDch a dent\u00E1ln\u00EDch n\u00E1stroj\u016F a pot\u0159eb"
+  },
+  {
+    "KOD": "329100",
+    "TEXT": "V\u00FDroba ko\u0161\u0165at a kart\u00E1\u010Dnick\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "329900",
+    "TEXT": "Ostatn\u00ED zpracovatelsk\u00FD pr\u016Fmysl j. n."
+  },
+  {
+    "KOD": "331000",
+    "TEXT": "Opravy kovod\u011Bln\u00FDch v\u00FDrobk\u016F, stroj\u016F a za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "331100",
+    "TEXT": "Opravy kovod\u011Bln\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "331200",
+    "TEXT": "Opravy stroj\u016F"
+  },
+  {
+    "KOD": "331300",
+    "TEXT": "Opravy elektronick\u00FDch a optick\u00FDch p\u0159\u00EDstroj\u016F a za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "331400",
+    "TEXT": "Opravy elektrick\u00FDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "331600",
+    "TEXT": "Opravy a \u00FAdr\u017Eba letadel a kosmick\u00FDch lod\u00ED"
+  },
+  {
+    "KOD": "331700",
+    "TEXT": "Opravy a \u00FAdr\u017Eba ostatn\u00EDch dopravn\u00EDch prost\u0159edk\u016F a za\u0159\u00EDzen\u00ED j. n."
+  },
+  {
+    "KOD": "331710",
+    "TEXT": "Opravy a \u00FAdr\u017Eba kolejov\u00FDch vozidel"
+  },
+  {
+    "KOD": "331790",
+    "TEXT": "Opravy a \u00FAdr\u017Eba ostatn\u00EDch dopravn\u00EDch prost\u0159edk\u016F a za\u0159\u00EDzen\u00ED j. n. krom\u011B kolejov\u00FDch vozidel"
+  },
+  {
+    "KOD": "332000",
+    "TEXT": "Instalace pr\u016Fmyslov\u00FDch stroj\u016F a za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "351100",
+    "TEXT": "V\u00FDroba elekt\u0159iny"
+  },
+  {
+    "KOD": "351200",
+    "TEXT": "P\u0159enos elekt\u0159iny"
+  },
+  {
+    "KOD": "351300",
+    "TEXT": "Rozvod elekt\u0159iny"
+  },
+  {
+    "KOD": "351400",
+    "TEXT": "Obchod s elekt\u0159inou"
+  },
+  {
+    "KOD": "352100",
+    "TEXT": "V\u00FDroba plynu"
+  },
+  {
+    "KOD": "352200",
+    "TEXT": "Rozvod plynn\u00FDch paliv prost\u0159ednictv\u00EDm s\u00EDt\u00ED"
+  },
+  {
+    "KOD": "352300",
+    "TEXT": "Obchod s\u00A0plynem prost\u0159ednictv\u00EDm s\u00EDt\u00ED"
+  },
+  {
+    "KOD": "353000",
+    "TEXT": "V\u00FDroba a rozvod tepla a klimatizovan\u00E9ho vzduchu, v\u00FDroba ledu"
+  },
+  {
+    "KOD": "353010",
+    "TEXT": "V\u00FDroba tepla"
+  },
+  {
+    "KOD": "353020",
+    "TEXT": "Rozvod tepla"
+  },
+  {
+    "KOD": "360000",
+    "TEXT": "Shroma\u017E\u010Fov\u00E1n\u00ED, \u00FAprava a rozvod vody"
+  },
+  {
+    "KOD": "370000",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s\u00A0odpadn\u00EDmi vodami"
+  },
+  {
+    "KOD": "380000",
+    "TEXT": "Shroma\u017E\u010Fov\u00E1n\u00ED, sb\u011Br a odstra\u0148ov\u00E1n\u00ED odpad\u016F, \u00FAprava odpad\u016F k dal\u0161\u00EDmu vyu\u017Eit\u00ED"
+  },
+  {
+    "KOD": "381100",
+    "TEXT": "Shroma\u017E\u010Fov\u00E1n\u00ED a sb\u011Br odpad\u016F, krom\u011B nebezpe\u010Dn\u00FDch"
+  },
+  {
+    "KOD": "381200",
+    "TEXT": "Shroma\u017E\u010Fov\u00E1n\u00ED a sb\u011Br nebezpe\u010Dn\u00FDch odpad\u016F"
+  },
+  {
+    "KOD": "382100",
+    "TEXT": "Odstra\u0148ov\u00E1n\u00ED odpad\u016F, krom\u011B nebezpe\u010Dn\u00FDch"
+  },
+  {
+    "KOD": "382200",
+    "TEXT": "Odstra\u0148ov\u00E1n\u00ED nebezpe\u010Dn\u00FDch odpad\u016F"
+  },
+  {
+    "KOD": "383000",
+    "TEXT": "\u00DAprava odpad\u016F k dal\u0161\u00EDmu vyu\u017Eit\u00ED"
+  },
+  {
+    "KOD": "383200",
+    "TEXT": "\u00DAprava odpad\u016F k dal\u0161\u00EDmu vyu\u017Eit\u00ED, krom\u011B demont\u00E1\u017Ee vrak\u016F, stroj\u016F a za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "390000",
+    "TEXT": "Sanace a jin\u00E9 \u010Dinnosti souvisej\u00EDc\u00ED s odpady"
+  },
+  {
+    "KOD": "411000",
+    "TEXT": "Developersk\u00E1 \u010Dinnost"
+  },
+  {
+    "KOD": "412000",
+    "TEXT": "V\u00FDstavba bytov\u00FDch a nebytov\u00FDch budov"
+  },
+  {
+    "KOD": "412010",
+    "TEXT": "V\u00FDstavba bytov\u00FDch budov"
+  },
+  {
+    "KOD": "412020",
+    "TEXT": "V\u00FDstavba nebytov\u00FDch budov"
+  },
+  {
+    "KOD": "421100",
+    "TEXT": "V\u00FDstavba silnic a d\u00E1lnic"
+  },
+  {
+    "KOD": "421200",
+    "TEXT": "V\u00FDstavba \u017Eeleznic a podzemn\u00EDch drah"
+  },
+  {
+    "KOD": "421300",
+    "TEXT": "V\u00FDstavba most\u016F a tunel\u016F"
+  },
+  {
+    "KOD": "422100",
+    "TEXT": "V\u00FDstavba in\u017Een\u00FDrsk\u00FDch s\u00EDt\u00ED pro kapaliny a plyny"
+  },
+  {
+    "KOD": "422110",
+    "TEXT": "V\u00FDstavba in\u017Een\u00FDrsk\u00FDch s\u00EDt\u00ED pro kapaliny"
+  },
+  {
+    "KOD": "422120",
+    "TEXT": "V\u00FDstavba in\u017Een\u00FDrsk\u00FDch s\u00EDt\u00ED pro plyny"
+  },
+  {
+    "KOD": "422200",
+    "TEXT": "V\u00FDstavba in\u017Een\u00FDrsk\u00FDch s\u00EDt\u00ED pro elekt\u0159inu a\u00A0telekomunikace"
+  },
+  {
+    "KOD": "429100",
+    "TEXT": "V\u00FDstavba vodn\u00EDch d\u011Bl"
+  },
+  {
+    "KOD": "429900",
+    "TEXT": "V\u00FDstavba ostatn\u00EDch staveb j. n."
+  },
+  {
+    "KOD": "431000",
+    "TEXT": "Demolice a p\u0159\u00EDprava staveni\u0161t\u011B"
+  },
+  {
+    "KOD": "431100",
+    "TEXT": "Demolice"
+  },
+  {
+    "KOD": "431200",
+    "TEXT": "P\u0159\u00EDprava staveni\u0161t\u011B"
+  },
+  {
+    "KOD": "431300",
+    "TEXT": "Pr\u016Fzkumn\u00E9 vrtn\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "432000",
+    "TEXT": "Elektroinstala\u010Dn\u00ED, instalat\u00E9rsk\u00E9 a ostatn\u00ED stavebn\u011B instala\u010Dn\u00ED pr\u00E1ce"
+  },
+  {
+    "KOD": "432100",
+    "TEXT": "Elektrick\u00E9 instalace"
+  },
+  {
+    "KOD": "432200",
+    "TEXT": "Instalace vody, odpadu, plynu, topen\u00ED a klimatizace"
+  },
+  {
+    "KOD": "432900",
+    "TEXT": "Ostatn\u00ED stavebn\u00ED instalace"
+  },
+  {
+    "KOD": "433100",
+    "TEXT": "Om\u00EDtk\u00E1\u0159sk\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "433200",
+    "TEXT": "Truhl\u00E1\u0159sk\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "433300",
+    "TEXT": "Obkl\u00E1d\u00E1n\u00ED st\u011Bn a pokl\u00E1d\u00E1n\u00ED podlahov\u00FDch krytin"
+  },
+  {
+    "KOD": "433400",
+    "TEXT": "Sklen\u00E1\u0159sk\u00E9, mal\u00ED\u0159sk\u00E9 a nat\u011Bra\u010Dsk\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "433410",
+    "TEXT": "Sklen\u00E1\u0159sk\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "433420",
+    "TEXT": "Mal\u00ED\u0159sk\u00E9 a nat\u011Bra\u010Dsk\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "433900",
+    "TEXT": "Ostatn\u00ED kompleta\u010Dn\u00ED a dokon\u010Dovac\u00ED pr\u00E1ce"
+  },
+  {
+    "KOD": "439100",
+    "TEXT": "Pokr\u00FDva\u010Dsk\u00E9 pr\u00E1ce"
+  },
+  {
+    "KOD": "439900",
+    "TEXT": "Ostatn\u00ED specializovan\u00E9 stavebn\u00ED \u010Dinnosti j. n."
+  },
+  {
+    "KOD": "439990",
+    "TEXT": "Jin\u00E9 specializovan\u00E9 stavebn\u00ED \u010Dinnosti j. n."
+  },
+  {
+    "KOD": "450000",
+    "TEXT": "Velkoobchod, maloobchod a opravy motorov\u00FDch vozidel"
+  },
+  {
+    "KOD": "451100",
+    "TEXT": "Obchod s\u00A0automobily a jin\u00FDmi lehk\u00FDmi motorov\u00FDmi vozidly"
+  },
+  {
+    "KOD": "451900",
+    "TEXT": "Obchod s\u00A0ostatn\u00EDmi motorov\u00FDmi vozidly, krom\u011B motocykl\u016F"
+  },
+  {
+    "KOD": "452000",
+    "TEXT": "Opravy a \u00FAdr\u017Eba motorov\u00FDch vozidel, krom\u011B motocykl\u016F"
+  },
+  {
+    "KOD": "453000",
+    "TEXT": "Obchod s d\u00EDly a p\u0159\u00EDslu\u0161enstv\u00EDm pro motorov\u00E1 vozidla, krom\u011B motocykl\u016F"
+  },
+  {
+    "KOD": "453100",
+    "TEXT": "Velkoobchod s d\u00EDly a p\u0159\u00EDslu\u0161enstv\u00EDm pro motorov\u00E1 vozidla, krom\u011B motocykl\u016F"
+  },
+  {
+    "KOD": "453200",
+    "TEXT": "Maloobchod s d\u00EDly a p\u0159\u00EDslu\u0161enstv\u00EDm pro motorov\u00E1 vozidla, krom\u011B motocykl\u016F"
+  },
+  {
+    "KOD": "454000",
+    "TEXT": "Obchod, opravy a \u00FAdr\u017Eba motocykl\u016F, jejich d\u00EDl\u016F a\u00A0p\u0159\u00EDslu\u0161enstv\u00ED"
+  },
+  {
+    "KOD": "460000",
+    "TEXT": "Velkoobchod, krom\u011B motorov\u00FDch vozidel"
+  },
+  {
+    "KOD": "461000",
+    "TEXT": "Zprost\u0159edkov\u00E1n\u00ED velkoobchodu a velkoobchod v\u00A0zastoupen\u00ED"
+  },
+  {
+    "KOD": "461800",
+    "TEXT": "Zprost\u0159edkov\u00E1n\u00ED specializovan\u00E9ho velkoobchodu a specializovan\u00FD velkoobchod v\u00A0zastoupen\u00ED s\u00A0ostatn\u00EDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "461900",
+    "TEXT": "Zprost\u0159edkov\u00E1n\u00ED nespecializovan\u00E9ho velkoobchodu a nespecializovan\u00FD velkoobchod v\u00A0zastoupen\u00ED"
+  },
+  {
+    "KOD": "462100",
+    "TEXT": "Velkoobchod s\u00A0obil\u00EDm, surov\u00FDm tab\u00E1kem, osivy a\u00A0krmivy"
+  },
+  {
+    "KOD": "463100",
+    "TEXT": "Velkoobchod s\u00A0ovocem a zeleninou"
+  },
+  {
+    "KOD": "463300",
+    "TEXT": "Velkoobchod s ml\u00E9\u010Dn\u00FDmi v\u00FDrobky, vejci, jedl\u00FDmi oleji a tuky"
+  },
+  {
+    "KOD": "463400",
+    "TEXT": "Velkoobchod s n\u00E1poji"
+  },
+  {
+    "KOD": "463900",
+    "TEXT": "Nespecializovan\u00FD velkoobchod s\u00A0potravinami, n\u00E1poji a\u00A0tab\u00E1kov\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "464100",
+    "TEXT": "Velkoobchod s\u00A0textilem"
+  },
+  {
+    "KOD": "464200",
+    "TEXT": "Velkoobchod s\u00A0od\u011Bvy a obuv\u00ED"
+  },
+  {
+    "KOD": "464300",
+    "TEXT": "Velkoobchod s\u00A0elektrospot\u0159ebi\u010Di a elektronikou"
+  },
+  {
+    "KOD": "464420",
+    "TEXT": "Velkoobchod s\u00A0prac\u00EDmi a \u010Distic\u00EDmi prost\u0159edky"
+  },
+  {
+    "KOD": "464500",
+    "TEXT": "Velkoobchod s\u00A0kosmetick\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "464600",
+    "TEXT": "Velkoobchod s\u00A0farmaceutick\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "464900",
+    "TEXT": "Velkoobchod s\u00A0ostatn\u00EDmi v\u00FDrobky p\u0159ev\u00E1\u017En\u011B pro\u00A0dom\u00E1cnost"
+  },
+  {
+    "KOD": "465100",
+    "TEXT": "Velkoobchod s\u00A0po\u010D\u00EDta\u010Di, po\u010D\u00EDta\u010Dov\u00FDm perifern\u00EDm za\u0159\u00EDzen\u00EDm a softwarem"
+  },
+  {
+    "KOD": "466100",
+    "TEXT": "Velkoobchod se zem\u011Bd\u011Blsk\u00FDmi stroji, strojn\u00EDm za\u0159\u00EDzen\u00EDm a p\u0159\u00EDslu\u0161enstv\u00EDm"
+  },
+  {
+    "KOD": "466300",
+    "TEXT": "Velkoobchod s\u00A0t\u011B\u017Eebn\u00EDmi a stavebn\u00EDmi stroji a\u00A0za\u0159\u00EDzen\u00EDm"
+  },
+  {
+    "KOD": "466900",
+    "TEXT": "Velkoobchod s\u00A0ostatn\u00EDmi stroji a za\u0159\u00EDzen\u00EDm"
+  },
+  {
+    "KOD": "467100",
+    "TEXT": "Velkoobchod s\u00A0pevn\u00FDmi, kapaln\u00FDmi a plynn\u00FDmi palivy a p\u0159\u00EDbuzn\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "467110",
+    "TEXT": "Velkoobchod s pevn\u00FDmi palivy a p\u0159\u00EDbuzn\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "467120",
+    "TEXT": "Velkoobchod s kapaln\u00FDmi palivy a p\u0159\u00EDbuzn\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "467130",
+    "TEXT": "Velkoobchod s plynn\u00FDmi palivy a p\u0159\u00EDbuzn\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "467200",
+    "TEXT": "Velkoobchod s\u00A0rudami, kovy a hutn\u00EDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "467300",
+    "TEXT": "Velkoobchod se d\u0159evem, stavebn\u00EDmi materi\u00E1ly a\u00A0sanit\u00E1rn\u00EDm vybaven\u00EDm"
+  },
+  {
+    "KOD": "467400",
+    "TEXT": "Velkoobchod s\u00A0\u017Eelez\u00E1\u0159sk\u00FDm zbo\u017E\u00EDm, instalat\u00E9rsk\u00FDmi a\u00A0topen\u00E1\u0159sk\u00FDmi pot\u0159ebami"
+  },
+  {
+    "KOD": "467500",
+    "TEXT": "Velkoobchod s\u00A0chemick\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "467600",
+    "TEXT": "Velkoobchod s\u00A0ostatn\u00EDmi meziprodukty"
+  },
+  {
+    "KOD": "467690",
+    "TEXT": "Velkoobchod s\u00A0ostatn\u00EDmi meziprodukty j. n."
+  },
+  {
+    "KOD": "467700",
+    "TEXT": "Velkoobchod s\u00A0odpadem a \u0161rotem"
+  },
+  {
+    "KOD": "469000",
+    "TEXT": "Nespecializovan\u00FD velkoobchod"
+  },
+  {
+    "KOD": "470000",
+    "TEXT": "Maloobchod, krom\u011B motorov\u00FDch vozidel"
+  },
+  {
+    "KOD": "471100",
+    "TEXT": "Maloobchod s\u00A0p\u0159evahou potravin, n\u00E1poj\u016F a tab\u00E1kov\u00FDch v\u00FDrobk\u016F v\u00A0nespecializovan\u00FDch prodejn\u00E1ch"
+  },
+  {
+    "KOD": "471900",
+    "TEXT": "Ostatn\u00ED maloobchod v nespecializovan\u00FDch prodejn\u00E1ch"
+  },
+  {
+    "KOD": "472100",
+    "TEXT": "Maloobchod s\u00A0ovocem a zeleninou"
+  },
+  {
+    "KOD": "473000",
+    "TEXT": "Maloobchod s pohonn\u00FDmi hmotami ve\u00A0specializovan\u00FDch prodejn\u00E1ch"
+  },
+  {
+    "KOD": "475200",
+    "TEXT": "Maloobchod s\u00A0\u017Eelez\u00E1\u0159sk\u00FDm zbo\u017E\u00EDm, barvami, sklem a\u00A0pot\u0159ebami pro kutily"
+  },
+  {
+    "KOD": "475900",
+    "TEXT": "Maloobchod s\u00A0n\u00E1bytkem, sv\u00EDtidly a ostatn\u00EDmi v\u00FDrobky p\u0159ev\u00E1\u017En\u011B pro\u00A0dom\u00E1cnost ve\u00A0specializovan\u00FDch prodejn\u00E1ch"
+  },
+  {
+    "KOD": "476400",
+    "TEXT": "Maloobchod se sportovn\u00EDm vybaven\u00EDm"
+  },
+  {
+    "KOD": "477100",
+    "TEXT": "Maloobchod s\u00A0od\u011Bvy"
+  },
+  {
+    "KOD": "477200",
+    "TEXT": "Maloobchod s\u00A0obuv\u00ED a ko\u017Een\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "477300",
+    "TEXT": "Maloobchod s\u00A0farmaceutick\u00FDmi p\u0159\u00EDpravky"
+  },
+  {
+    "KOD": "477400",
+    "TEXT": "Maloobchod se zdravotnick\u00FDmi a ortopedick\u00FDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "477500",
+    "TEXT": "Maloobchod s\u00A0kosmetick\u00FDmi a toaletn\u00EDmi v\u00FDrobky"
+  },
+  {
+    "KOD": "477600",
+    "TEXT": "Maloobchod s\u00A0kv\u011Btinami, rostlinami, osivy, hnojivy, zv\u00ED\u0159aty pro\u00A0z\u00E1jmov\u00FD chov a krmivy pro n\u011B"
+  },
+  {
+    "KOD": "477800",
+    "TEXT": "Ostatn\u00ED maloobchod s\u00A0nov\u00FDm zbo\u017E\u00EDm ve\u00A0specializovan\u00FDch prodejn\u00E1ch"
+  },
+  {
+    "KOD": "477900",
+    "TEXT": "Maloobchod s pou\u017Eit\u00FDm zbo\u017E\u00EDm v prodejn\u00E1ch"
+  },
+  {
+    "KOD": "491000",
+    "TEXT": "\u017Delezni\u010Dn\u00ED osobn\u00ED doprava mezim\u011Bstsk\u00E1"
+  },
+  {
+    "KOD": "492000",
+    "TEXT": "\u017Delezni\u010Dn\u00ED n\u00E1kladn\u00ED doprava"
+  },
+  {
+    "KOD": "493100",
+    "TEXT": "M\u011Bstsk\u00E1 a p\u0159\u00EDm\u011Bstsk\u00E1 pozemn\u00ED osobn\u00ED doprava"
+  },
+  {
+    "KOD": "493200",
+    "TEXT": "Taxislu\u017Eba a pron\u00E1jem osobn\u00EDch voz\u016F s \u0159idi\u010Dem"
+  },
+  {
+    "KOD": "493910",
+    "TEXT": "Mezim\u011Bstsk\u00E1 pravideln\u00E1 pozemn\u00ED osobn\u00ED doprava"
+  },
+  {
+    "KOD": "493920",
+    "TEXT": "Osobn\u00ED doprava lanovkou nebo vlekem"
+  },
+  {
+    "KOD": "494100",
+    "TEXT": "Silni\u010Dn\u00ED n\u00E1kladn\u00ED doprava"
+  },
+  {
+    "KOD": "495010",
+    "TEXT": "Potrubn\u00ED doprava ropovodem"
+  },
+  {
+    "KOD": "495020",
+    "TEXT": "Potrubn\u00ED doprava plynovodem"
+  },
+  {
+    "KOD": "521000",
+    "TEXT": "Skladov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "522100",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s\u00A0pozemn\u00ED dopravou"
+  },
+  {
+    "KOD": "522300",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s\u00A0leteckou dopravou"
+  },
+  {
+    "KOD": "522400",
+    "TEXT": "Manipulace s\u00A0n\u00E1kladem"
+  },
+  {
+    "KOD": "522900",
+    "TEXT": "Ostatn\u00ED vedlej\u0161\u00ED \u010Dinnosti v\u00A0doprav\u011B"
+  },
+  {
+    "KOD": "531000",
+    "TEXT": "Z\u00E1kladn\u00ED po\u0161tovn\u00ED slu\u017Eby poskytovan\u00E9 na z\u00E1klad\u011B po\u0161tovn\u00ED licence"
+  },
+  {
+    "KOD": "532000",
+    "TEXT": "Ostatn\u00ED po\u0161tovn\u00ED a kur\u00FDrn\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "550000",
+    "TEXT": "Ubytov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "551000",
+    "TEXT": "Ubytov\u00E1n\u00ED v hotel\u00EDch a podobn\u00FDch ubytovac\u00EDch za\u0159\u00EDzen\u00EDch"
+  },
+  {
+    "KOD": "551010",
+    "TEXT": "Hotely"
+  },
+  {
+    "KOD": "551020",
+    "TEXT": "Motely, botely"
+  },
+  {
+    "KOD": "552000",
+    "TEXT": "Rekrea\u010Dn\u00ED a ostatn\u00ED kr\u00E1tkodob\u00E9 ubytov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "559000",
+    "TEXT": "Ostatn\u00ED ubytov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "559020",
+    "TEXT": "Ubytov\u00E1n\u00ED ve vysoko\u0161kolsk\u00FDch kolej\u00EDch, domovech ml\u00E1de\u017Ee"
+  },
+  {
+    "KOD": "561000",
+    "TEXT": "Stravov\u00E1n\u00ED v\u00A0restaurac\u00EDch, u st\u00E1nk\u016F a v mobiln\u00EDch za\u0159\u00EDzen\u00EDch"
+  },
+  {
+    "KOD": "562920",
+    "TEXT": "Stravov\u00E1n\u00ED ve \u0161koln\u00EDch za\u0159\u00EDzen\u00EDch, menz\u00E1ch"
+  },
+  {
+    "KOD": "563000",
+    "TEXT": "Pohostinstv\u00ED"
+  },
+  {
+    "KOD": "581300",
+    "TEXT": "Vyd\u00E1v\u00E1n\u00ED novin"
+  },
+  {
+    "KOD": "591100",
+    "TEXT": "Produkce film\u016F, videoz\u00E1znam\u016F a televizn\u00EDch program\u016F"
+  },
+  {
+    "KOD": "591200",
+    "TEXT": "Postprodukce film\u016F, videoz\u00E1znam\u016F a televizn\u00EDch program\u016F"
+  },
+  {
+    "KOD": "601000",
+    "TEXT": "Rozhlasov\u00E9 vys\u00EDl\u00E1n\u00ED"
+  },
+  {
+    "KOD": "602000",
+    "TEXT": "Tvorba televizn\u00EDch program\u016F a televizn\u00ED vys\u00EDl\u00E1n\u00ED"
+  },
+  {
+    "KOD": "611000",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s\u00A0pevnou telekomunika\u010Dn\u00ED s\u00EDt\u00ED"
+  },
+  {
+    "KOD": "611030",
+    "TEXT": "P\u0159enos dat p\u0159es pevnou telekomunika\u010Dn\u00ED s\u00ED\u0165"
+  },
+  {
+    "KOD": "611040",
+    "TEXT": "Poskytov\u00E1n\u00ED p\u0159\u00EDstupu k\u00A0internetu p\u0159es pevnou telekomunika\u010Dn\u00ED s\u00ED\u0165"
+  },
+  {
+    "KOD": "612000",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s bezdr\u00E1tovou telekomunika\u010Dn\u00ED s\u00EDt\u00ED"
+  },
+  {
+    "KOD": "612010",
+    "TEXT": "Poskytov\u00E1n\u00ED hlasov\u00FDch slu\u017Eeb p\u0159es bezdr\u00E1tovou telekomunika\u010Dn\u00ED s\u00ED\u0165"
+  },
+  {
+    "KOD": "612030",
+    "TEXT": "P\u0159enos dat p\u0159es bezdr\u00E1tovou telekomunika\u010Dn\u00ED s\u00ED\u0165"
+  },
+  {
+    "KOD": "612090",
+    "TEXT": "Ostatn\u00ED \u010Dinnosti souvisej\u00EDc\u00ED s\u00A0bezdr\u00E1tovou telekomunika\u010Dn\u00ED s\u00EDt\u00ED"
+  },
+  {
+    "KOD": "620100",
+    "TEXT": "Programov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "620200",
+    "TEXT": "Poradenstv\u00ED v\u00A0oblasti informa\u010Dn\u00EDch technologi\u00ED"
+  },
+  {
+    "KOD": "620300",
+    "TEXT": "Spr\u00E1va po\u010D\u00EDta\u010Dov\u00E9ho vybaven\u00ED"
+  },
+  {
+    "KOD": "631100",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED se zpracov\u00E1n\u00EDm dat a hostingem"
+  },
+  {
+    "KOD": "639100",
+    "TEXT": "\u010Cinnosti zpravodajsk\u00FDch tiskov\u00FDch kancel\u00E1\u0159\u00ED a agentur"
+  },
+  {
+    "KOD": "641100",
+    "TEXT": "Centr\u00E1ln\u00ED bankovnictv\u00ED"
+  },
+  {
+    "KOD": "641900",
+    "TEXT": "Ostatn\u00ED pen\u011B\u017En\u00ED zprost\u0159edkov\u00E1n\u00ED"
+  },
+  {
+    "KOD": "642000",
+    "TEXT": "\u010Cinnosti holdingov\u00FDch spole\u010Dnost\u00ED"
+  },
+  {
+    "KOD": "643000",
+    "TEXT": "\u010Cinnosti trust\u016F, fond\u016F a podobn\u00FDch finan\u010Dn\u00EDch subjekt\u016F"
+  },
+  {
+    "KOD": "649100",
+    "TEXT": "Finan\u010Dn\u00ED leasing"
+  },
+  {
+    "KOD": "651200",
+    "TEXT": "Ne\u017Eivotn\u00ED poji\u0161t\u011Bn\u00ED"
+  },
+  {
+    "KOD": "661900",
+    "TEXT": "Ostatn\u00ED pomocn\u00E9 \u010Dinnosti souvisej\u00EDc\u00ED s finan\u010Dn\u00EDm zprost\u0159edkov\u00E1n\u00EDm"
+  },
+  {
+    "KOD": "663000",
+    "TEXT": "Spr\u00E1va fond\u016F"
+  },
+  {
+    "KOD": "682000",
+    "TEXT": "Pron\u00E1jem a spr\u00E1va vlastn\u00EDch nebo pronajat\u00FDch nemovitost\u00ED"
+  },
+  {
+    "KOD": "682010",
+    "TEXT": "Pron\u00E1jem vlastn\u00EDch nebo pronajat\u00FDch nemovitost\u00ED s\u00A0bytov\u00FDmi prostory"
+  },
+  {
+    "KOD": "682020",
+    "TEXT": "Pron\u00E1jem vlastn\u00EDch nebo pronajat\u00FDch nemovitost\u00ED s\u00A0nebytov\u00FDmi prostory"
+  },
+  {
+    "KOD": "682040",
+    "TEXT": "Spr\u00E1va vlastn\u00EDch nebo pronajat\u00FDch nemovitost\u00ED s\u00A0nebytov\u00FDmi prostory"
+  },
+  {
+    "KOD": "683100",
+    "TEXT": "Zprost\u0159edkovatelsk\u00E9 \u010Dinnosti realitn\u00EDch agentur"
+  },
+  {
+    "KOD": "683200",
+    "TEXT": "Spr\u00E1va nemovitost\u00ED na z\u00E1klad\u011B smlouvy"
+  },
+  {
+    "KOD": "692000",
+    "TEXT": "\u00DA\u010Detnick\u00E9 a auditorsk\u00E9 \u010Dinnosti; da\u0148ov\u00E9 poradenstv\u00ED"
+  },
+  {
+    "KOD": "701000",
+    "TEXT": "\u010Cinnosti veden\u00ED podnik\u016F"
+  },
+  {
+    "KOD": "702200",
+    "TEXT": "Ostatn\u00ED poradenstv\u00ED v\u00A0oblasti podnik\u00E1n\u00ED a \u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "711100",
+    "TEXT": "Architektonick\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "711200",
+    "TEXT": "In\u017Een\u00FDrsk\u00E9 \u010Dinnosti a souvisej\u00EDc\u00ED technick\u00E9 poradenstv\u00ED"
+  },
+  {
+    "KOD": "711210",
+    "TEXT": "Geologick\u00FD pr\u016Fzkum"
+  },
+  {
+    "KOD": "711220",
+    "TEXT": "Zem\u011Bm\u011B\u0159ick\u00E9 a kartografick\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "711230",
+    "TEXT": "Hydrometeorologick\u00E9 a meteorologick\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "711290",
+    "TEXT": "Ostatn\u00ED in\u017Een\u00FDrsk\u00E9 \u010Dinnosti a souvisej\u00EDc\u00ED technick\u00E9 poradenstv\u00ED j. n."
+  },
+  {
+    "KOD": "712000",
+    "TEXT": "Technick\u00E9 zkou\u0161ky a anal\u00FDzy"
+  },
+  {
+    "KOD": "712090",
+    "TEXT": "Ostatn\u00ED technick\u00E9 zkou\u0161ky a anal\u00FDzy"
+  },
+  {
+    "KOD": "721100",
+    "TEXT": "V\u00FDzkum a v\u00FDvoj v\u00A0oblasti biotechnologie"
+  },
+  {
+    "KOD": "721900",
+    "TEXT": "Ostatn\u00ED v\u00FDzkum a v\u00FDvoj v\u00A0oblasti p\u0159\u00EDrodn\u00EDch a\u00A0technick\u00FDch v\u011Bd"
+  },
+  {
+    "KOD": "721920",
+    "TEXT": "V\u00FDzkum a v\u00FDvoj v\u00A0oblasti technick\u00FDch v\u011Bd"
+  },
+  {
+    "KOD": "721990",
+    "TEXT": "V\u00FDzkum a v\u00FDvoj v\u00A0oblasti jin\u00FDch p\u0159\u00EDrodn\u00EDch v\u011Bd"
+  },
+  {
+    "KOD": "731100",
+    "TEXT": "\u010Cinnosti reklamn\u00EDch agentur"
+  },
+  {
+    "KOD": "740000",
+    "TEXT": "Ostatn\u00ED profesn\u00ED, v\u011Bdeck\u00E9 a technick\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "741000",
+    "TEXT": "Specializovan\u00E9 n\u00E1vrh\u00E1\u0159sk\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "742000",
+    "TEXT": "Fotografick\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "749000",
+    "TEXT": "Ostatn\u00ED profesn\u00ED, v\u011Bdeck\u00E9 a technick\u00E9 \u010Dinnosti j. n."
+  },
+  {
+    "KOD": "749090",
+    "TEXT": "Jin\u00E9 profesn\u00ED, v\u011Bdeck\u00E9 a technick\u00E9 \u010Dinnosti j. n."
+  },
+  {
+    "KOD": "771100",
+    "TEXT": "Pron\u00E1jem a leasing\u00A0automobil\u016F a jin\u00FDch lehk\u00FDch motorov\u00FDch vozidel, krom\u011B motocykl\u016F"
+  },
+  {
+    "KOD": "771200",
+    "TEXT": "Pron\u00E1jem a leasing n\u00E1kladn\u00EDch automobil\u016F"
+  },
+  {
+    "KOD": "772000",
+    "TEXT": "Pron\u00E1jem a leasing v\u00FDrobk\u016F pro osobn\u00ED pot\u0159ebu a\u00A0p\u0159ev\u00E1\u017En\u011B pro\u00A0dom\u00E1cnost"
+  },
+  {
+    "KOD": "772900",
+    "TEXT": "Pron\u00E1jem a leasing ostatn\u00EDch v\u00FDrobk\u016F pro osobn\u00ED pot\u0159ebu a p\u0159ev\u00E1\u017En\u011B pro\u00A0dom\u00E1cnost"
+  },
+  {
+    "KOD": "773200",
+    "TEXT": "Pron\u00E1jem a leasing stavebn\u00EDch stroj\u016F a\u00A0za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "773900",
+    "TEXT": "Pron\u00E1jem a leasing ostatn\u00EDch stroj\u016F, za\u0159\u00EDzen\u00ED a v\u00FDrobk\u016F j. n."
+  },
+  {
+    "KOD": "782000",
+    "TEXT": "\u010Cinnosti agentur zprost\u0159edkuj\u00EDc\u00EDch pr\u00E1ci na p\u0159echodnou dobu"
+  },
+  {
+    "KOD": "801000",
+    "TEXT": "\u010Cinnosti soukrom\u00FDch bezpe\u010Dnostn\u00EDch agentur"
+  },
+  {
+    "KOD": "811000",
+    "TEXT": "Kombinovan\u00E9 pomocn\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "812000",
+    "TEXT": "\u00DAklidov\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "812100",
+    "TEXT": "V\u0161eobecn\u00FD \u00FAklid budov"
+  },
+  {
+    "KOD": "812200",
+    "TEXT": "Specializovan\u00E9 \u010Di\u0161t\u011Bn\u00ED a \u00FAklid budov a pr\u016Fmyslov\u00FDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "812900",
+    "TEXT": "Ostatn\u00ED \u00FAklidov\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "813000",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s\u00A0\u00FApravou krajiny"
+  },
+  {
+    "KOD": "821100",
+    "TEXT": "Univerz\u00E1ln\u00ED administrativn\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "823000",
+    "TEXT": "Po\u0159\u00E1d\u00E1n\u00ED konferenc\u00ED a hospod\u00E1\u0159sk\u00FDch v\u00FDstav"
+  },
+  {
+    "KOD": "829200",
+    "TEXT": "Balic\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "829900",
+    "TEXT": "Ostatn\u00ED podp\u016Frn\u00E9 \u010Dinnosti pro podnik\u00E1n\u00ED j. n."
+  },
+  {
+    "KOD": "841100",
+    "TEXT": "V\u0161eobecn\u00E9 \u010Dinnosti ve\u0159ejn\u00E9 spr\u00E1vy"
+  },
+  {
+    "KOD": "841300",
+    "TEXT": "Regulace a podpora podnikatelsk\u00E9ho prost\u0159ed\u00ED"
+  },
+  {
+    "KOD": "842100",
+    "TEXT": "\u010Cinnosti v\u00A0oblasti zahrani\u010Dn\u00EDch v\u011Bc\u00ED"
+  },
+  {
+    "KOD": "842200",
+    "TEXT": "\u010Cinnosti v\u00A0oblasti obrany"
+  },
+  {
+    "KOD": "842300",
+    "TEXT": "\u010Cinnosti v\u00A0oblasti spravedlnosti a soudnictv\u00ED"
+  },
+  {
+    "KOD": "842400",
+    "TEXT": "\u010Cinnosti v\u00A0oblasti ve\u0159ejn\u00E9ho po\u0159\u00E1dku a bezpe\u010Dnosti"
+  },
+  {
+    "KOD": "842500",
+    "TEXT": "\u010Cinnosti v\u00A0oblasti protipo\u017E\u00E1rn\u00ED ochrany"
+  },
+  {
+    "KOD": "843000",
+    "TEXT": "\u010Cinnosti v\u00A0oblasti povinn\u00E9ho soci\u00E1ln\u00EDho zabezpe\u010Den\u00ED"
+  },
+  {
+    "KOD": "851000",
+    "TEXT": "P\u0159ed\u0161koln\u00ED vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "852000",
+    "TEXT": "Prim\u00E1rn\u00ED vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "853100",
+    "TEXT": "Sekund\u00E1rn\u00ED v\u0161eobecn\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "853110",
+    "TEXT": "Z\u00E1kladn\u00ED vzd\u011Bl\u00E1v\u00E1n\u00ED na druh\u00E9m stupni z\u00E1kladn\u00EDch \u0161kol"
+  },
+  {
+    "KOD": "853120",
+    "TEXT": "St\u0159edn\u00ED v\u0161eobecn\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "853200",
+    "TEXT": "Sekund\u00E1rn\u00ED odborn\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "853210",
+    "TEXT": "St\u0159edn\u00ED odborn\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED na u\u010Dili\u0161t\u00EDch"
+  },
+  {
+    "KOD": "853220",
+    "TEXT": "St\u0159edn\u00ED odborn\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED na st\u0159edn\u00EDch odborn\u00FDch \u0161kol\u00E1ch"
+  },
+  {
+    "KOD": "854100",
+    "TEXT": "Postsekund\u00E1rn\u00ED nikoli terci\u00E1rn\u00ED vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "854200",
+    "TEXT": "Terci\u00E1rn\u00ED vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "855200",
+    "TEXT": "Um\u011Bleck\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "855900",
+    "TEXT": "Ostatn\u00ED vzd\u011Bl\u00E1v\u00E1n\u00ED j. n."
+  },
+  {
+    "KOD": "855990",
+    "TEXT": "Jin\u00E9 vzd\u011Bl\u00E1v\u00E1n\u00ED j. n."
+  },
+  {
+    "KOD": "856000",
+    "TEXT": "Podp\u016Frn\u00E9 \u010Dinnosti ve vzd\u011Bl\u00E1v\u00E1n\u00ED"
+  },
+  {
+    "KOD": "861000",
+    "TEXT": "\u00DAstavn\u00ED zdravotn\u00ED p\u00E9\u010De"
+  },
+  {
+    "KOD": "862100",
+    "TEXT": "V\u0161eobecn\u00E1 ambulantn\u00ED zdravotn\u00ED p\u00E9\u010De"
+  },
+  {
+    "KOD": "862200",
+    "TEXT": "Specializovan\u00E1 ambulantn\u00ED zdravotn\u00ED p\u00E9\u010De"
+  },
+  {
+    "KOD": "869000",
+    "TEXT": "Ostatn\u00ED \u010Dinnosti souvisej\u00EDc\u00ED se zdravotn\u00ED p\u00E9\u010D\u00ED"
+  },
+  {
+    "KOD": "869010",
+    "TEXT": "\u010Cinnosti souvisej\u00EDc\u00ED s ochranou ve\u0159ejn\u00E9ho zdrav\u00ED"
+  },
+  {
+    "KOD": "869090",
+    "TEXT": "Ostatn\u00ED \u010Dinnosti souvisej\u00EDc\u00ED se zdravotn\u00ED p\u00E9\u010D\u00ED j. n."
+  },
+  {
+    "KOD": "871000",
+    "TEXT": "\u00DAstavn\u00ED o\u0161et\u0159ovatelsk\u00E1 p\u00E9\u010De"
+  },
+  {
+    "KOD": "872010",
+    "TEXT": "\u00DAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De o ment\u00E1ln\u011B posti\u017Een\u00E9 osoby"
+  },
+  {
+    "KOD": "873000",
+    "TEXT": "\u00DAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De o seniory a zdravotn\u011B posti\u017Een\u00E9 osoby"
+  },
+  {
+    "KOD": "873010",
+    "TEXT": "\u00DAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De o seniory"
+  },
+  {
+    "KOD": "873020",
+    "TEXT": "\u00DAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De o zdravotn\u011B posti\u017Een\u00E9 osoby"
+  },
+  {
+    "KOD": "879000",
+    "TEXT": "Ostatn\u00ED \u00FAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De"
+  },
+  {
+    "KOD": "881000",
+    "TEXT": "Mimo\u00FAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De o seniory a zdravotn\u011B posti\u017Een\u00E9 osoby"
+  },
+  {
+    "KOD": "889900",
+    "TEXT": "Ostatn\u00ED mimo\u00FAstavn\u00ED soci\u00E1ln\u00ED p\u00E9\u010De j. n."
+  },
+  {
+    "KOD": "900100",
+    "TEXT": "Sc\u00E9nick\u00E1 um\u011Bn\u00ED"
+  },
+  {
+    "KOD": "900400",
+    "TEXT": "Provozov\u00E1n\u00ED kulturn\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "910100",
+    "TEXT": "\u010Cinnosti knihoven a archiv\u016F"
+  },
+  {
+    "KOD": "910200",
+    "TEXT": "\u010Cinnosti muze\u00ED"
+  },
+  {
+    "KOD": "910300",
+    "TEXT": "Provozov\u00E1n\u00ED kulturn\u00EDch pam\u00E1tek, historick\u00FDch staveb a\u00A0obdobn\u00FDch turistick\u00FDch zaj\u00EDmavost\u00ED"
+  },
+  {
+    "KOD": "910400",
+    "TEXT": "\u010Cinnosti botanick\u00FDch a zoologick\u00FDch zahrad, p\u0159\u00EDrodn\u00EDch rezervac\u00ED a\u00A0n\u00E1rodn\u00EDch park\u016F"
+  },
+  {
+    "KOD": "910410",
+    "TEXT": "\u010Cinnosti botanick\u00FDch a zoologick\u00FDch zahrad"
+  },
+  {
+    "KOD": "920000",
+    "TEXT": "\u010Cinnosti heren, kasin a s\u00E1zkov\u00FDch kancel\u00E1\u0159\u00ED"
+  },
+  {
+    "KOD": "931100",
+    "TEXT": "Provozov\u00E1n\u00ED sportovn\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "931200",
+    "TEXT": "\u010Cinnosti sportovn\u00EDch klub\u016F"
+  },
+  {
+    "KOD": "931900",
+    "TEXT": "Ostatn\u00ED sportovn\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "932100",
+    "TEXT": "\u010Cinnosti lunapark\u016F a z\u00E1bavn\u00EDch park\u016F"
+  },
+  {
+    "KOD": "932900",
+    "TEXT": "Ostatn\u00ED z\u00E1bavn\u00ED a rekrea\u010Dn\u00ED \u010Dinnosti j. n."
+  },
+  {
+    "KOD": "941100",
+    "TEXT": "\u010Cinnosti podnikatelsk\u00FDch a zam\u011Bstnavatelsk\u00FDch organizac\u00ED"
+  },
+  {
+    "KOD": "941200",
+    "TEXT": "\u010Cinnosti profesn\u00EDch organizac\u00ED"
+  },
+  {
+    "KOD": "949100",
+    "TEXT": "\u010Cinnosti n\u00E1bo\u017Eensk\u00FDch organizac\u00ED"
+  },
+  {
+    "KOD": "949200",
+    "TEXT": "\u010Cinnosti politick\u00FDch stran a organizac\u00ED"
+  },
+  {
+    "KOD": "949900",
+    "TEXT": "\u010Cinnosti ostatn\u00EDch organizac\u00ED sdru\u017Euj\u00EDc\u00EDch osoby za \u00FA\u010Delem prosazov\u00E1n\u00ED spole\u010Dn\u00FDch z\u00E1jm\u016F j. n."
+  },
+  {
+    "KOD": "949910",
+    "TEXT": "\u010Cinnosti organizac\u00ED d\u011Bt\u00ED a ml\u00E1de\u017Ee"
+  },
+  {
+    "KOD": "949930",
+    "TEXT": "\u010Cinnosti organizac\u00ED na podporu rekrea\u010Dn\u00ED a\u00A0z\u00E1jmov\u00E9 \u010Dinnosti"
+  },
+  {
+    "KOD": "951100",
+    "TEXT": "Opravy po\u010D\u00EDta\u010D\u016F a perifern\u00EDch za\u0159\u00EDzen\u00ED"
+  },
+  {
+    "KOD": "952100",
+    "TEXT": "Opravy spot\u0159ebn\u00ED elektroniky"
+  },
+  {
+    "KOD": "960100",
+    "TEXT": "Pran\u00ED a chemick\u00E9 \u010Di\u0161t\u011Bn\u00ED textiln\u00EDch a ko\u017Ee\u0161inov\u00FDch v\u00FDrobk\u016F"
+  },
+  {
+    "KOD": "960300",
+    "TEXT": "Poh\u0159ebn\u00ED a souvisej\u00EDc\u00ED \u010Dinnosti"
+  },
+  {
+    "KOD": "960400",
+    "TEXT": "\u010Cinnosti pro osobn\u00ED a fyzickou pohodu"
+  },
+  {
+    "KOD": "960900",
+    "TEXT": "Poskytov\u00E1n\u00ED ostatn\u00EDch osobn\u00EDch slu\u017Eeb j. n."
+  }
+]
