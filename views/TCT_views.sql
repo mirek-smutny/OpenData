@@ -181,29 +181,26 @@ ORDER BY
 ################################################################################################################################################################
 */
 
-SELECT
-    XMLELEMENT("station",
-            XMLATTRIBUTES(station as "id"),
-                XMLELEMENT("date",
-                    XMLATTRIBUTES(TRUNC(measure_date,'DD') as "date"),
-                    XMLELEMENT
-                            (XMLFOREST("day",
-                                (SELECT XMLAGG(  
-                                        XMLELEMENT("values",
-                                                XMLFOREST( 
-                                                       TO_CHAR(measure_date,'HH24') as "hour",
-                                                        value as "value"
-                                                    ) "values"
-                                                )
-                                            )
-                            FROM 
-                                T_CLIMATE_TEMPERAUTURE_10MIN h
-                            WHERE h.station=tct.station
-                            )
-                        )
+select
+    XMLELEMENT
+        ("stations",
+            XMLATTRIBUTES(i.station as "id"),
+            (
+                XMLFOREST
+                    (
+                        i.measure_date as "date",
+                        XMLAGG
+                            (
+                                XMLELEMENT
+                                    (
+                                    "value", t.value
+                                    )
+                            ) as "values"
                     )
-                )
-FROM
-    T_CLIMATE_TEMPERATURE_10MIN tct
-order by station, measure_date
-;
+            )
+        )
+from T_CLIMATE_TEMPERATURE_10MIN PARTITION (T_CT_10_PART_M_201808) i
+join T_CLIMATE_TEMPERATURE_10MIN PARTITION (T_CT_10_PART_M_201808) t on i.STATION=t.STATION and i.measure_date=t.measure_date
+where
+    to_char(i.measure_date,'YYYY-MM-DD') = '2018-08-01'
+group by i.station, i.measure_date;
