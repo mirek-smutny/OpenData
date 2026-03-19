@@ -204,3 +204,17 @@ join T_CLIMATE_TEMPERATURE_10MIN PARTITION (T_CT_10_PART_M_201808) t on i.STATIO
 where
     to_char(i.measure_date,'YYYY-MM-DD') = '2018-08-01'
 group by i.station, i.measure_date;
+
+
+-- ########################################### JSON Construction
+SELECT
+        JSON_ARRAYAGG(
+            JSON_OBJECT(
+                KEY 'Station'   VALUE station,
+                KEY 'date'      VALUE measure_date,
+                KEY 'temp'      VALUE value
+                        )
+                    )
+from T_CLIMATE_TEMPERATURE_10MIN PARTITION (T_CT_10_PART_M_201808)
+WHERE MEASURE_DATE < TO_DATE('2018-08-01 01:00:00', 'YYYY-MM.DD HH24:MI:SS')
+;
