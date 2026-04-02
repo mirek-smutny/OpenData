@@ -1,0 +1,3 @@
+*/*.sql linguist-language=SQL
+*.pks linguist-language=PL/SQL
+*.pkb linguist-language=PL/SQL
